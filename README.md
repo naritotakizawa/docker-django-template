@@ -4,7 +4,7 @@ Django を使ったアプリケーションの、Docker での開発用テンプ
 
 ```
 git clone https://github.com/naritotakizawa/docker-django-template
-cd docker-drf-and-nuxt-template
+cd docker-django-template
 ```
 
 データベースは PostgreSQL、Web サーバーとして Nginx、Nginx の背後に Django+Gunicorn が動作しています。
